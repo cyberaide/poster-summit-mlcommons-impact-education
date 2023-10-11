@@ -21,4 +21,4 @@ References
 
 Poster:
 
-![](https://github.com/cyberaide/poster-summit-mlcommons-impact-education/blob/main/summit-user-meeting-bigger-fox-vonLaszewski-ai-for-science-slide.pdf)https://github.com/cyberaide/poster-summit-mlcommons-impact-education/blob/main/summit-user-meeting-bigger-fox-vonLaszewski-ai-for-science-slide.pdf)
+![](https://github.com/cyberaide/poster-summit-mlcommons-impact-education/blob/main/summit-user-meeting-bigger-fox-vonLaszewski-ai-for-science-slide.pdf)
